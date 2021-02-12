@@ -91,3 +91,34 @@ inventory = ["Axe", "Shield", "Boots"]
 
 for item in inventory:
     print(item)
+
+# 10. Functions
+
+def move(amount):
+    global pos
+    pos += amount
+
+move(5)
+print("Position", pos)
+
+def move_from(pos, amount):
+    return pos + amount
+
+print(move_from(0, 8))
+
+# 11. Classes and Objects
+
+class Hobgoblin():
+    def __init__(self):
+        self.name = "Hobgoblin"
+        self.health = 0
+        self.attack = 2
+
+    def bite(self):
+        print("The Hobgoblin bites!")
+
+    def run_away(self):
+        print("The Hobgoblin runs away.")
+
+character = Hobgoblin()
+print(type(character))
