@@ -38,3 +38,56 @@ inventory.append("Water")
 inventory.remove("Axe")
 inventory.insert(1, "Knife")
 print(inventory)
+
+# 5. Tupels and Ranges
+
+profile = ("Barry", 27)
+name = profile[0]
+print(type(profile))
+
+my_range = range(5)
+print(type(my_range))
+
+# 6. Dictionaries
+
+inventory = {"Axe": 1, "Fruit": 5, "Knife": 1}
+print(type(inventory))
+print(inventory.items())
+num_axes = inventory["Axe"]
+print(num_axes)
+
+
+# 7. If Statements
+
+pos = 5
+key = "R"
+
+if key == "R":
+    pos += 10
+    print("Player moved right")
+elif key == "L":
+    pos -= 10
+    print("Player moved left")
+else:
+    print("Unknown command")
+
+# 8. While Loops
+
+key = "Q"
+
+while isGameOver:
+    print("The game is running...")
+    if key == "Q":
+        isGameOver = False
+
+print("The game is over.")
+
+# 9. For Loops
+
+for count in range(4):
+    print(count + 1)
+
+inventory = ["Axe", "Shield", "Boots"]
+
+for item in inventory:
+    print(item)

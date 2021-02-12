@@ -5,13 +5,13 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 :heavy_check_mark: Completed  
 :o: Incomplete
 
-## :beginner: Tutorials
+## :beginner: Tutorials and Courses
 
-### Programming
+### Programming Courses
 
 1. :o: [Python 101 – Introduction to Programming [2020]](python-101-introduction-to-programming/)
 
-### Game Programming
+### Game Development Courses
 
 1. :o: [Intro to HTML5 Game Development](https://github.com/learning-game-development/learning-javascript-game-development/tree/master/intro-to-html5-game-development) :rocket:
 
