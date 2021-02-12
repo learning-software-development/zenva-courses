@@ -15,6 +15,10 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 
 1. :o: [Intro to HTML5 Game Development](https://github.com/learning-game-development/learning-javascript-game-development/tree/master/intro-to-html5-game-development) :rocket:
 
+### Game Development Tutorials
+
+1. [Unity Tutorials](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Tutorials) :rocket:
+
 ## :page_with_curl: License
 
 The source code is free -- see the [LICENSE](LICENSE) file for details
