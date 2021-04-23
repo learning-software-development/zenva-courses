@@ -14,6 +14,7 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 ### Game Development Courses
 
 1. :o: [Intro to HTML5 Game Development](https://github.com/learning-game-development/learning-javascript-game-development/tree/master/intro-to-html5-game-development) :rocket:
+2. :construction: [Intro to Game Development [2018]](/) :rocket:
 
 ### Game Development Tutorials
 
