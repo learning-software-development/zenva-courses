@@ -21,7 +21,7 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 
 1. :heavy_check_mark: [Unity 101 – Game Development Foundations](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) :rocket:
 2. :heavy_check_mark: [Intro to Game Development [2018]](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) :rocket:
-3. :o: [Intro to Game Development with Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) :rocket:
+3. :heavy_check_mark: [Intro to Game Development with Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) :rocket:
 
 ### Game Development Tutorials
 
