@@ -10,6 +10,7 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 ### Programming Courses
 
 1. :heavy_check_mark: [Python 101 – Introduction to Programming [2020]](python-101-introduction-to-programming/)
+2. :o: [Python Programming for Beginners](python-programming-for-beginners/)
 
 ### Game Development Courses
 
