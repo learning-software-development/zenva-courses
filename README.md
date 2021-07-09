@@ -10,7 +10,12 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 ### Programming Courses
 
 1. :heavy_check_mark: [Python 101 – Introduction to Programming [2020]](python-101-introduction-to-programming/)
-2. :o: [Python Programming for Beginners](python-programming-for-beginners/)
+2. :heavy_check_mark: [Python Programming for Beginners](python-programming-for-beginners/)
+
+### Web Development Courses
+
+1. :o: [Intro to Web Development with HTML and CSS](intro-web-development-with-html-css/)
+2. :construction: Bite-Sized JavaScript Basics
 
 ### Game Development Courses
 

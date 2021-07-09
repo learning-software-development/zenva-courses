@@ -1,0 +1,23 @@
+{
+  "name": "intro-web-development-with-html-css",
+  "version": "1.0.0",
+  "description": "Intro to Web Development with HTML and CSS",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning",
+    "zenva",
+    "video-course",
+    "html",
+    "css"
+  ],
+  "author": "Quintin Henn (http://skerwe.web.za)",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^3.7.1"
+  }
+}
