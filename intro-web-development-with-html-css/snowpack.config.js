@@ -7,7 +7,8 @@ module.exports = {
     "src": "/"
   },
   plugins: [
-    /* ... */
+    '@snowpack/plugin-sass',
+    '@snowpack/plugin-postcss'
   ],
   packageOptions: {
     /* ... */

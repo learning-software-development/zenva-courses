@@ -18,6 +18,11 @@
   "author": "Quintin Henn (http://skerwe.web.za)",
   "license": "ISC",
   "devDependencies": {
+    "@snowpack/plugin-postcss": "^1.4.3",
+    "@snowpack/plugin-sass": "^1.4.0",
+    "postcss": "^8.3.5",
+    "precss": "^4.0.0",
+    "sass": "^1.35.2",
     "snowpack": "^3.7.1"
   }
 }

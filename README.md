@@ -14,8 +14,10 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 
 ### Web Development Courses
 
-1. :o: [Intro to Web Development with HTML and CSS](intro-web-development-with-html-css/)
-2. :construction: Bite-Sized JavaScript Basics
+1. :heavy_check_mark: [Intro to Web Development with HTML and CSS](intro-web-development-with-html-css/)
+2. :o: Learn HTML and CSS by Creating a Responsive Company Website [2018]
+3. :o: Bite-Sized JavaScript Basics
+4. :o: JavaScript 101 – First Programming Steps [2020]
 
 ### Game Development Courses
 
@@ -31,7 +33,7 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 
 ### Game Development Tutorials
 
-1. [Unity Tutorials](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Tutorials) :rocket:
+1. :video_game: [Unity Tutorials](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Tutorials) :rocket:
 
 ## :page_with_curl: License
 
