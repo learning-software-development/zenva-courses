@@ -1,6 +1,6 @@
 {
   "name": "intro-web-development-with-html-css",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Intro to Web Development with HTML and CSS",
   "main": "src/index.html",
   "scripts": {
