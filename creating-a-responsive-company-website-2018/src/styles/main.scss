@@ -1,3 +1,98 @@
  body {
-   padding: 40px;
- }
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.nav {
+  background-color: cadetblue;
+  color: white;
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0;
+
+    li {
+      padding: 16px;
+      text-align: center;
+      font-size: 1.2rem;
+      border-bottom: 1px solid black;
+      transition: background-color 0.2s;
+
+      &:hover {
+        background-color: black;
+      }
+    }
+  }
+}
+
+.image-area {
+  background-image: url('./images/background.png');
+  background-color: black;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+%centered-container {
+  text-align: center;
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.image-text {
+  @extend %centered-container;
+  background-color: black;
+  color: white;
+  font-size: 2.5rem;
+}
+
+.intro-text {
+  @extend %centered-container;
+  color: gray;
+  font-size: 1.5rem;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.single-service {
+  @extend %centered-container;
+  margin-bottom: 32px;
+
+  p {
+    padding: 0 16px;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .nav ul {
+    text-align: right;
+  }
+
+  .nav ul li {
+    display: inline-block;
+    border-bottom: 0px;
+    border-left: 1px solid black;
+    text-align: left;
+  }
+
+  .services {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+  }
+
+  .single-service {
+    flex-basis: 50%;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+  }
+}
