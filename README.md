@@ -18,7 +18,7 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 2. :o: HTML & CSS 101 - Responsive Company Website! [2020]
 3. :o: Learn HTML and CSS by Creating a Responsive Company Website [2018]
 4. :o: Bite-Sized JavaScript Basics
-5. :o: JavaScript 101 – First Programming Steps [2020]
+5. :heavy_check_mark: JavaScript 101 – First Programming Steps [2020]
 
 ### Game Development Courses
 
