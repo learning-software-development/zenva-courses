@@ -1,8 +1,8 @@
 {
-  "name": "intro-web-development-with-html-css",
+  "name": "creating-a-responsive-company-website-2018",
   "version": "0.1.0",
-  "description": "Intro to Web Development with HTML and CSS",
-  "main": "src/index.html",
+  "description": "Learn HTML and CSS by Creating a Responsive Company Website [2018]",
+  "main": "src/index.js",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
@@ -13,16 +13,18 @@
     "zenva",
     "video-course",
     "html",
-    "css"
+    "css",
+    "responsive",
+    "website"
   ],
   "author": "Quintin Henn (http://skerwe.web.za)",
   "license": "ISC",
   "devDependencies": {
     "@snowpack/plugin-postcss": "^1.4.3",
     "@snowpack/plugin-sass": "^1.4.0",
-    "postcss": "^8.3.5",
+    "postcss": "^8.3.6",
     "precss": "^4.0.0",
-    "sass": "^1.35.2",
-    "snowpack": "^3.7.1"
+    "sass": "^1.36.0",
+    "snowpack": "^3.8.3"
   }
 }
