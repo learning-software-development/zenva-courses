@@ -15,7 +15,7 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 ### Web Development Courses
 
 1. :heavy_check_mark: [Intro to Web Development with HTML and CSS](intro-web-development-with-html-css/)
-2. :o: HTML & CSS 101 - Responsive Company Website! [2020]
+2. :heavy_check_mark: HTML & CSS 101 - Responsive Company Website! [2020]
 3. :heavy_check_mark: [Learn HTML and CSS by Creating a Responsive Company Website [2018]](creating-a-responsive-company-website-2018/)
 4. :heavy_check_mark: Bite-Sized JavaScript Basics
 5. :heavy_check_mark: [JavaScript 101 – First Programming Steps [2020]](https://academy.zenva.com/course/javascript-101-web-and-game-development-fundamentals/) (2016 edition)
@@ -25,6 +25,7 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 ### HTML5 and Javascript
 
 1. :o: [Intro to HTML5 Game Development](https://github.com/learning-game-development/learning-javascript-game-development/tree/master/intro-to-html5-game-development) :rocket:
+2. :o: [The Ultimate Game Development Course with Construct 2](https://github.com/learning-game-development/learning-construct-2-game-development/tree/master/ultimate-game-development-course) :rocket:
 
 ### Unity
 
@@ -35,6 +36,7 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 ### Game Development Tutorials
 
 1. :video_game: [Unity Tutorials](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Tutorials) :rocket:
+2. :construction: Multiplayer Games 101 – Developing with Photon
 
 ## :page_with_curl: License
 
