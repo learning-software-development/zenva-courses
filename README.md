@@ -36,7 +36,8 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 ### Game Development Tutorials
 
 1. :video_game: [Unity Tutorials](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Tutorials) :rocket:
-2. :construction: Multiplayer Games 101 – Developing with Photon
+2. :o: [Create Vector Game Artwork with Inkscape](https://github.com/learning-game-development/learning-game-development-tools/blob/master/learning-inkscape/create-vector-game-artwork) :rocket:
+3. :construction: Multiplayer Games 101 – Developing with Photon
 
 ## :page_with_curl: License
 
