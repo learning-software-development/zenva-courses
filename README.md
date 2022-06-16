@@ -19,6 +19,7 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 3. :heavy_check_mark: [Learn HTML and CSS by Creating a Responsive Company Website [2018]](creating-a-responsive-company-website-2018/)
 4. :heavy_check_mark: Bite-Sized JavaScript Basics
 5. :heavy_check_mark: [JavaScript 101 – First Programming Steps [2020]](https://academy.zenva.com/course/javascript-101-web-and-game-development-fundamentals/) (2016 edition)
+6. :construction: The Complete Responsive Web Design Course [2018]
 
 ## :beginner: Game Development Courses
 
@@ -32,6 +33,9 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 1. :heavy_check_mark: [Unity 101 – Game Development Foundations](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) :rocket:
 2. :heavy_check_mark: [Intro to Game Development [2018]](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) :rocket:
 3. :heavy_check_mark: [Intro to Game Development with Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) :rocket:
+4. :construction: Master Unity Game Development – Ultimate Beginner’s Course [2017]
+5. :construction: Master Unity Mobile Game Development – Build Android and iOS Games [2017]
+6. :construction: Unity 2D Projects – Pong
 
 ### Game Development Tutorials
 
