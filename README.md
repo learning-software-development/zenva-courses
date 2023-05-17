@@ -9,34 +9,40 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 
 ### Programming Courses
 
-1. :heavy_check_mark: [Python 101 – Introduction to Programming [2020]](python-101-introduction-to-programming/)
+1. :heavy_check_mark: [Python 101 – Introduction to Programming](python-101-introduction-to-programming/) [2020]
 2. :heavy_check_mark: [Python Programming for Beginners](python-programming-for-beginners/)
 3. :heavy_check_mark: Bite-Sized SQL [2019]
 
 ### Web Development Courses
 
-1. :heavy_check_mark: [Intro to Web Development with HTML and CSS](intro-web-development-with-html-css/)
-2. :heavy_check_mark: HTML & CSS 101 - Responsive Company Website! [2020]
-3. :heavy_check_mark: [Learn HTML and CSS by Creating a Responsive Company Website [2018]](creating-a-responsive-company-website-2018/)
+1. :heavy_check_mark: [Intro to Web Development with HTML and CSS](intro-web-development-with-html-css/) [2020]
+2. :heavy_check_mark: HTML & CSS 101 - Responsive Company Website!
+3. :heavy_check_mark: [Learn HTML and CSS by Creating a Responsive Company Website](creating-a-responsive-company-website-2018/) [2018]
 4. :heavy_check_mark: Bite-Sized JavaScript Basics
-5. :heavy_check_mark: [JavaScript 101 – First Programming Steps [2020]](https://academy.zenva.com/course/javascript-101-web-and-game-development-fundamentals/) (2016 edition)
+5. :heavy_check_mark: [JavaScript 101 – First Programming Steps](https://academy.zenva.com/course/javascript-101-web-and-game-development-fundamentals/)
 6. :construction: The Complete Responsive Web Design Course [2018]
 
 ## :beginner: Game Development Courses
 
 ### HTML5 and Javascript
 
-1. :o: [Intro to HTML5 Game Development](https://github.com/learning-game-development/learning-javascript-game-development/tree/master/intro-to-html5-game-development) :rocket:
+1. :o: [Intro to HTML5 Game Development](https://github.com/learning-game-development/learning-javascript-game-development/tree/master/intro-to-html5-game-development) [2014] :rocket:
 2. :o: [The Ultimate Game Development Course with Construct 2](https://github.com/learning-game-development/learning-construct-2-game-development/tree/master/ultimate-game-development-course) :rocket:
 
 ### Unity
 
-1. :heavy_check_mark: [Unity 101 – Game Development Foundations](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) :rocket:
-2. :heavy_check_mark: [Intro to Game Development [2018]](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) :rocket:
-3. :heavy_check_mark: [Intro to Game Development with Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) :rocket:
-4. :construction: Master Unity Game Development – Ultimate Beginner’s Course [2017]
-5. :construction: Master Unity Mobile Game Development – Build Android and iOS Games [2017]
-6. :construction: Unity 2D Projects – Pong
+1. :o: [Unity 2D Projects – Pong](https://gitlab.com/quest-for-game-dev/pong-games/unity-pong-game) :rocket:
+2. :heavy_check_mark: [Unity 101 – Game Development Foundations](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) [2020] :rocket:
+3. :heavy_check_mark: [Intro to Game Development with Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) [2020] :rocket:
+4. :heavy_check_mark: [Intro to Game Development with Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) [2019] :rocket:
+5. :construction: Create Your First 3D Game with Unity [2019]
+6. :heavy_check_mark: [Intro to Game Development](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) [2018] :rocket:
+7. :construction: Create a City Building Game with Unity [2018]
+8. :construction: Master Unity Game Development – Ultimate Beginner’s Course [2017]
+9. :construction: Master Unity Mobile Game Development – Build Android and iOS Games [2017]
+10. :construction: Storytelling in Games with Unity Cinemachine [2017]
+11. :construction: Intermediate C# – Build a Text-Based RPG in Unity [2017]
+12. :construction: 3D Game Development 101 – Create a Basketball Game [2017]
 
 ### Game Development Tutorials
 
