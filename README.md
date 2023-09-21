@@ -35,14 +35,15 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 2. :heavy_check_mark: [Unity 101 – Game Development Foundations](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) [2020] :rocket:
 3. :heavy_check_mark: [Intro to Game Development with Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) [2020] :rocket:
 4. :heavy_check_mark: [Intro to Game Development with Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) [2019] :rocket:
-5. :construction: Create Your First 3D Game with Unity [2019]
+5. :o: [Create Your First 3D Game with Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) [2019] :rocket:
 6. :heavy_check_mark: [Intro to Game Development](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) [2018] :rocket:
 7. :construction: Create a City Building Game with Unity [2018]
 8. :construction: Master Unity Game Development – Ultimate Beginner’s Course [2017]
 9. :construction: Master Unity Mobile Game Development – Build Android and iOS Games [2017]
 10. :construction: Storytelling in Games with Unity Cinemachine [2017]
-11. :construction: Intermediate C# – Build a Text-Based RPG in Unity [2017]
+11. :o: [Intermediate C# – Build a Text-Based RPG in Unity](https://gitlab.com/quest-for-game-dev/text-adventure-games/unity-text-adventure-game) [2017] :rocket:
 12. :construction: 3D Game Development 101 – Create a Basketball Game [2017]
+13. :o: Intro to Augmented Reality
 
 ### Game Development Tutorials
 
