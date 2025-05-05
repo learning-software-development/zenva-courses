@@ -25,12 +25,12 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 
 ## :video_game: Game Development Courses
 
-### HTML5 and Javascript Courses
+### HTML5 and Javascript Game Development Courses
 
 1. :o: [Intro to HTML5 Game Development](https://github.com/learning-game-development/learning-javascript-game-development/tree/master/intro-to-html5-game-development) [2014] :rocket:
 2. :no_entry: [The Ultimate Game Development Course with Construct 2](https://github.com/learning-game-development/learning-construct-2-game-development/tree/master/ultimate-game-development-course) :rocket:
 
-### Unity Courses
+### Unity Game Development Courses
 
 1. :o: [Unity 2D Projects – Pong](https://gitlab.com/quest-for-game-dev/pong-games/unity-pong-game) :rocket:
 2. :heavy_check_mark: [Unity 101 – Game Development Foundations](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Zenva-GameDev-Academy-Unity-Courses) [2020] :rocket:
@@ -45,6 +45,16 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 11. :o: [Intermediate C# – Build a Text-Based RPG in Unity](https://gitlab.com/quest-for-game-dev/text-adventure-games/unity-text-adventure-game) [2017] :rocket:
 12. :construction: 3D Game Development 101 – Create a Basketball Game [2017]
 13. :o: Intro to Augmented Reality
+
+### Godot Game Development Courses
+
+1. :heavy_check_mark: [Godot 101 – Game Engine Foundations](https://github.com/learning-game-development/learning-godot-game-development/tree/master/online-courses/Zenva-Godot-Courses) :rocket:
+2. :o: [Godot 101 – Game Engine Foundations [2020]](https://github.com/learning-game-development/learning-godot-game-development/tree/master/online-courses/Zenva-Godot-Courses) :rocket:
+3. :construction: [Godot 101 – Game Engine Foundations [2023]](https://github.com/learning-game-development/learning-godot-game-development/tree/master/online-courses/Zenva-Godot-Courses) :rocket:
+
+### C++ Game Development Courses
+
+1. :construction: [Learn C++ by Making a Text-Based RPG](/) [2020] :rocket:
 
 ### Zenva Tutorials
 
