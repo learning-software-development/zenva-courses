@@ -54,8 +54,8 @@ These are all the [Zenva Academy][zenva] online courses I completed to learn new
 ### Godot Game Development Courses
 
 1. :heavy_check_mark: [Godot 101 – Game Engine Foundations](https://github.com/learning-game-development/learning-godot-game-development/tree/master/online-courses/Zenva-Godot-Courses) :rocket:
-2. :o: [Godot 101 – Game Engine Foundations](https://github.com/learning-game-development/learning-godot-game-development/tree/master/online-courses/Zenva-Godot-Courses) [2020] :rocket:
-3. :construction: [Godot 101 – Game Engine Foundations](https://github.com/learning-game-development/learning-godot-game-development/tree/master/online-courses/Zenva-Godot-Courses) [2023] :rocket:
+2. :heavy_check_mark: [Godot 101 – Game Engine Foundations](https://github.com/learning-game-development/learning-godot-game-development/tree/master/online-courses/Zenva-Godot-Courses) [2020] :rocket:
+3. :heavy_check_mark: [Godot 101 – Game Engine Foundations](https://github.com/learning-game-development/learning-godot-game-development/tree/master/online-courses/Zenva-Godot-Courses) [2023] :rocket:
 4. :construction: [Godot 3 Game Development for Beginners](/) [2020] -- Fanatical
 5. :construction: [Build a First-Person Shooter with Godot 3](/) [2020] -- Fanatical
 
